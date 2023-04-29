@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, history, gaming
 - 🌱 I’m currently learning hurdy-gurdy, violin
 - 💞️ I’m looking to collaborate on nothing (who are you)
-- 📫 How to reach me: send me an email or idk 
+- 📫 How to reach me: please don't
 
 <!---
 What2doWhenBored/What2doWhenBored is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
